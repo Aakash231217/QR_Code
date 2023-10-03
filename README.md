@@ -2,8 +2,6 @@
 
 ### Demo
 
-
-
 ### Install dependencies
 
 `npm install`
