@@ -1,6 +1,4 @@
-## QR Reader PWA
 
-### Demo
 
 ### Install dependencies
 
